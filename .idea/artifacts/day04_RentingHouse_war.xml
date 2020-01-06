@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day04_RentingHouse:war">
+    <output-path>$PROJECT_DIR$/day04_RentingHouse/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>day04_RentingHouse</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="day_RentingHouse.war">
+      <element id="artifact" artifact-name="day04_RentingHouse:war exploded" />
+    </root>
+  </artifact>
+</component>
